@@ -18,7 +18,7 @@ In Summer of 2024, I participated in an AI Bootcamp where I explored the idea of
 
 In another AI bootcamp in early February 2025, I pitched the project as something I would like to pursue at some point in the future. However, the presentation received an overwhelming response, which made me think that the time to build it out is now! Here is the pitch at the bootcamp,
 
-![![monkey-pitch](https://img.youtube.com/vi/6S_fSh8ldoo/0.jpg)](https://youtu.be/6S_fSh8ldoo?si=94Yi3AjZNUwkvbA2)
+[![monkey-pitch](https://img.youtube.com/vi/6S_fSh8ldoo/0.jpg)](https://youtu.be/6S_fSh8ldoo?si=94Yi3AjZNUwkvbA2)
 
 
 ### Modular DeFi Hackathon
@@ -29,7 +29,7 @@ Another discovery made over the course of this hackathon was that of [Envio Hype
 
 Finally, here's the demo video for the project built over the hackathon (ie, the copytading feature),
 
-![![monkey-demo](https://img.youtube.com/vi/MReSUmdkHT0/0.jpg)](https://youtu.be/MReSUmdkHT0?si=O9txnBC9lScr_mTx)
+[![monkey-demo](https://img.youtube.com/vi/MReSUmdkHT0/0.jpg)](https://youtu.be/MReSUmdkHT0?si=O9txnBC9lScr_mTx)
 
 ### EthereumSF
 
